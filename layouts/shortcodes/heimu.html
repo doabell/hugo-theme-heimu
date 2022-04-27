@@ -1,12 +1,12 @@
 <style type="text/css">
     .heimu {
-        background-color: --primary;
+        background-color: var(--content);
     }
 
     .heimu:hover,
     .heimu:active {
         transition: color .13s linear;
-        color: --theme;
+        background-color: var(--theme);
     }
 </style>
 <span class="heimu" title="{{ i18n " title" }}">{{.Inner}}</span>

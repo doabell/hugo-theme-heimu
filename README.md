@@ -1,7 +1,7 @@
 # hugo-theme-heimu
 Hugo Theme Component for Heimu (reveal-on-click).
 
-Uses CSS variables in [PaperMod](https://github.com/adityatelange/hugo-PaperMod): `--theme` and `--primary`.
+Uses CSS variables in [PaperMod](https://github.com/adityatelange/hugo-PaperMod): `--theme` and `--content`.
 
 Original repo: https://github.com/aimerneige/hugo-theme-heimu
 
