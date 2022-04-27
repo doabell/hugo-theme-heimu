@@ -9,4 +9,4 @@ Original repo: https://github.com/aimerneige/hugo-theme-heimu
 
 # Changes
 - Added `.heimu:active`
-- Added a 0.3s color transition
+- Added a 0.13s transition
